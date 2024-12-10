@@ -17,6 +17,9 @@ Necesitas abrir la la pagina [WOKWI](https://wokwi.com/).
 ### Preparación del entorno
 
 1. Ya en la plataforma debes seleccionar la tarjeta que usaremos en este caso seria la  ```ESP32```.
+![](https://github.com/AntoniodeJesus19/Practica-ESP32-con-DHT22/blob/main/Captura%20de%20pantalla%202024-12-09%20223637.png?raw=true)
+
+2. Luego bajamos un poco el cursor y seleccionamos ESP32.
 ![](
 
 

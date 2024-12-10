@@ -51,4 +51,16 @@ void loop() {
 ![](https://github.com/AntoniodeJesus19/Practica-ESP32-con-DHT22/blob/main/Captura%20de%20pantalla%202024-12-09%20225042.png?raw=true)
 
 5. Seleccionamos nuestro sensor en la parte de **Simulacion** en el boton **+** y buscamos **DHT22** le damos click y los conectamos de la siguiente manera.
+![](https://github.com/AntoniodeJesus19/Practica-ESP32-con-DHT22/blob/main/Captura%20de%20pantalla%202024-12-09%20225835.png?raw=true)
+
+
+### Instrucciónes de operación
+
+1. Iniciar simulador.
+2. Visualizar los datos en el monitor serial.
+
+
+## Resultados
+
+Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 ![](

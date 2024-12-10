@@ -46,3 +46,9 @@ void loop() {
   delay(1000);
 }
 ```
+
+4. Instalar la libreria **DHT sensor library for ESPx**.
+![](https://github.com/AntoniodeJesus19/Practica-ESP32-con-DHT22/blob/main/Captura%20de%20pantalla%202024-12-09%20225042.png?raw=true)
+
+5. Seleccionamos nuestro sensor en la parte de **Simulacion** en el boton **+** y buscamos **DHT22** le damos click y los conectamos de la siguiente manera.
+![](
